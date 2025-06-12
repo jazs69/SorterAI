@@ -41,7 +41,7 @@ WasteGPT is an intelligent waste classification system that uses deep learning t
 
 ### Want to work on the ML model
 
-We dont want any contributions on this repo. But we will love that if you contributed on the ![ML Model](https://github.com/jazs69/segrigateAI) repo and help us improve.
+We dont want any contributions on this repo. But we will love that if you contributed on the [ML Model](https://github.com/jazs69/segrigateAI) repo and help us improve.
 
 1. Clone the :
 ```bash
@@ -74,7 +74,7 @@ You can train this model by adding more and more complex images.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request on the ML model repository ![ML Model - segrigateAI](https://github.com/jazs69/segrigateAI).
+Contributions are welcome! Please feel free to submit a Pull Request on the ML model repository [ML Model - segrigateAI](https://github.com/jazs69/segrigateAI).
 
 ## 📸 Usage
 
