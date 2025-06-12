@@ -1,7 +1,6 @@
 <h1 align="center">WasteGPT - AI-Powered Waste Classification System</h1>
 
 <div align="center">
-  <img src="client/public/vite.svg" alt="WasteGPT Logo" width="200"/>
   <img src="public/favicon.svg" alt="WasteGPT Logo" width="200"/>
   <h3>Smart Waste Classification using Machine Learning</h3>
 </div>
