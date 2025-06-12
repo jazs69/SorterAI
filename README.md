@@ -1,9 +1,10 @@
-# WasteGPT - AI-Powered Waste Classification System
+<h1 align="center">WasteGPT - AI-Powered Waste Classification System</h1>
 
-<div align="center">
-  <img src="public/favicon.svg" alt="WasteGPT Logo" width="200"/>
-  <h3>Smart Waste Classification using Machine Learning</h3>
-</div>
+<p align="center">
+  <img src="client/public/vite.svg" alt="WasteGPT Logo" width="200"/>
+</p>
+
+<h3 align="center">Smart Waste Classification using Machine Learning</h3>
 
 ## 📝 Description
 
@@ -39,28 +40,24 @@ WasteGPT is an intelligent waste classification system that uses deep learning t
 - Python (v3.8 or higher)
 - npm or yarn
 
-### Installation
+### Want to work on the ML model
 
-1. Clone the repository:
+We dont want any contributions on this repo. But we will love that if you contributed on the ![ML Model](https://github.com/jazs69/segrigateAI) repo and help us improve.
+
+1. Clone the :
 ```bash
-git clone https://github.com/yourusername/WasteGPT.git
-cd WasteGPT
+git clone https://github.com/jazs69/segrigateAI
+cd segrigateAI
 ```
 
-2. Set up the frontend:
+2. Set up the project:
 ```bash
-cd client
-npm install
-```
-
-3. Set up the backend:
-```bash
-cd server
-npm install
 pip install -r requirements.txt
 ```
 
-### Running the Application
+### Running this Application
+
+After cloning and installing all the dependencies.
 
 1. Start the frontend:
 ```bash
@@ -74,7 +71,11 @@ cd server
 npm start
 ```
 
-The application will be available at `http://localhost:5173`
+You can train this model by adding more and more complex images.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request on the ML model repository ![ML Model - segrigateAI](https://github.com/jazs69/segrigateAI).
 
 ## 📸 Usage
 
@@ -82,10 +83,6 @@ The application will be available at `http://localhost:5173`
 2. Click on the upload area or drag and drop an image
 3. Wait for the AI model to process the image
 4. View the classification results
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
